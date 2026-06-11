@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Praveen's Portfolio</h1>
+        <h1>Nievetha's Portfolio</h1>
         <p>Full Stack Developer</p>
       </header>
 
